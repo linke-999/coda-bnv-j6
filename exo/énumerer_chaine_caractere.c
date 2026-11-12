@@ -1,4 +1,3 @@
-
 int énumerer_chaine_caractere(char *str){
     
 
